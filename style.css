@@ -1,0 +1,15 @@
+#countLabel {
+    display: block;
+    text-align: center;
+    font-size: 15em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#btnContainer {
+    text-align: center;
+}
+
+.card {
+    max-width: 700px;
+    margin: 40px auto;
+}
